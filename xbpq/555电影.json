@@ -8,7 +8,7 @@
 "主演":"主演：</span>&&</div>",
 "简介":"<p>&&</p>",
 "分类":"电影$1#连续剧$2#福利$124#动漫$4#综艺纪录$3",
-"分类url":"https://www.555dyy1.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+"分类url":"https://5flix.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
@@ -57,7 +57,7 @@
 {"n":"真人秀","v":"真人秀"},
 {"n":"脱口秀","v":"脱口秀"}
 ]
-},
+}，
 {
 "key":"area",
 "name":"地区",
